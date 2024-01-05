@@ -2,5 +2,4 @@
 using BNN for Mnist task-- Using Genetic Algorithm for Pruning weights
 
 
-93% accuracy with bnn on Mnist
-and 90% accuracy after 50% pruning weights
+Achieved a notable 93% accuracy on MNIST using Binary Neural Network (BNN), and maintained a commendable 90% accuracy even after pruning 50% of the network weights.
