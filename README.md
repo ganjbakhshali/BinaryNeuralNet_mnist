@@ -1,5 +1,5 @@
 # BinaryNeuralNet_mnist
-#Post-Training Binarization Method
+# Post-Training Binarization Method
 using BNN for Mnist task-- Using Genetic Algorithm for Pruning weights
 
 
